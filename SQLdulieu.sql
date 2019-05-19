@@ -1,8 +1,8 @@
 ﻿
 
-CREATE DATABASE QLTV_CHUNG
+CREATE DATABASE QLTV_NHOM6
 GO
-USE QLTV_CHUNG
+USE QLTV_NHOM6
 GO
 
 CREATE TABLE TaiKhoan(
@@ -147,5 +147,4 @@ values ('1','1','1','1','2019-02-24','2019-06-01','1',''),
 insert into TaiKhoan(Usename,Password)
 values( N'admin','123'),
 (N'loan',N'1998'),
-(N'NHOM6',N'1998'),
-(N'NHOM10',N'1998')
+(N'NHOM6',N'1998')
